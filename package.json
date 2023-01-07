@@ -1,0 +1,22 @@
+{
+    "id": "ikiw-nvue-chat",
+    "name": "ikiw-nvue-chat 即时通讯聊天APP",
+    "version": "1.1.1",
+    "description": "即时通讯App，基于workerman和unicloud，支持APP，微信小程序，H5",
+    "keywords": [
+        "即时通讯",
+        "nvue聊天",
+        "小程序聊天",
+        "App聊天",
+        "H5聊天"
+    ],
+    "dcloudext": {
+        "category": [
+            "uniCloud",
+            "云端一体项目模板"
+        ]
+    },
+    "dependencies": {
+        "uview-ui": "^2.0.31"
+    }
+}
